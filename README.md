@@ -14,8 +14,8 @@ This Telegram bot provides users with the latest sports news across various cate
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Maksym-MMM/sport_news
-   cd sport_news
+   git clone https://github.com/Maksym-MMM/Sports-News-Telegram-Bot
+   cd Sports-News-Telegram-Bot
 
 2. Install the required Python packages:
    ```bash
